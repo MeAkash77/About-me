@@ -54,6 +54,3 @@
 <h4 align="center">
   <a href="https://github.com/LakshayD02?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> <br />
-
-## My Daily.dev Card
-<a align="center" href="https://app.daily.dev/lakshaydhoundiyal"><img src="https://api.daily.dev/devcards/v2/F2MI9DJ2ouuB8dZ7hyT3T.png?type=default&r=wq0" width="356" align="center" alt="Lakshay Dhoundiyal's Dev Card"/></a>
