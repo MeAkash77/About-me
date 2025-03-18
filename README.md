@@ -38,7 +38,7 @@
 
 ### My GitHub Activity
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LakshayD02&bg_color=00073d&color=ffffff&line=ffffff&point=1100ff&area=true&hide_border=true) <br /><br />
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MeAkash77&bg_color=00073d&color=ffffff&line=ffffff&point=1100ff&area=true&hide_border=true) <br /><br />
 
 <!-- show more repos -->
 <h4 align="center">
