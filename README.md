@@ -42,5 +42,5 @@
 
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/LakshayD02?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/MeAkash77?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> <br />
